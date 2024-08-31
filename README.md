@@ -1,1 +1,2 @@
-Customer grouping based on their purchase 
+Customer grouping based on their purchase history
+
